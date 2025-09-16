@@ -18,7 +18,7 @@ Ledgerly is a beautiful, privacy-first expense tracking app for macOS featuring:
 - **📖 [Detailed FAQ & Troubleshooting](https://github.com/arpit15006/ledgerly-support/blob/main/support.md)**
 - **🐛 [Report a Bug](https://github.com/arpit15006/ledgerly-support/issues/new?template=bug_report.md)**
 - **💡 [Request a Feature](https://github.com/arpit15006/ledgerly-support/issues/new?template=feature_request.md)**
-- **📧 Email Support**: arpit6814@gmai.com
+- **📧 Email Support**: arpit6814@gmail.com
 
 ## 🚀 Quick Start
 
