@@ -7,7 +7,7 @@
 A: Click the "+" button in the main app or use the menu bar icon (💰) for quick entry. Enter amount, select category, and optionally add notes or date.
 
 **Q: Where is my data stored?**
-A: All data is stored locally on your Mac at `~/Library/Containers/com.arpitpatel.ledgerly/Data/`. No cloud sync or external servers are used.
+A: All data is stored locally on your Mac. No cloud sync or external servers are used.
 
 **Q: How do I enable the menu bar feature?**
 A: The menu bar icon appears automatically after launch. If it's missing, check System Settings > Privacy & Security > Accessibility and ensure Ledgerly has permission.
