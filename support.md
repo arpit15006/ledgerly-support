@@ -116,7 +116,7 @@ A: Check the App Store listing or the app's About section for detailed release n
 
 ### Feature Requests
 **Q: Can I request new features?**
-A: Yes! Submit feature requests through GitHub Issues or email support@ledgerly.app. We review all suggestions.
+A: Yes! Submit feature requests through GitHub Issues or email arpit6814@gmail.com . We review all suggestions.
 
 ## 📞 Still Need Help?
 
@@ -124,7 +124,7 @@ If you can't find the answer here:
 
 1. **Search existing issues**: Check if someone else had the same problem
 2. **Create a new issue**: Use our bug report or feature request templates
-3. **Email support**: support@ledgerly.app (24-48 hour response time)
+3. **Email support**: arpit6814@gmail.com (24-48 hour response time)
 
 When reporting issues, please include:
 - macOS version
